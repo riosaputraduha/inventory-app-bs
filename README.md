@@ -43,11 +43,17 @@ _Daftar Ruangan_
 -   Clone repository ini
 
 ```
-https://github.com/mrizkimaulidan/inven-bs.git
+https://github.com/riosaputraduha/inventory-app-bs.git
 ```
 
 ```
-git@github.com:mrizkimaulidan/inven-bs.git
+git@github.com:riosaputraduha/inventory-app-bs.git
+```
+
+-   Settelah itu masuk ke folder project
+
+```
+cd inventory-app-bs-main
 ```
 
 -   Install seluruh packages yang dibutuhkan
@@ -56,7 +62,26 @@ git@github.com:mrizkimaulidan/inven-bs.git
 composer install
 ```
 
+-   copy file .env
+
+```
+cp .env.example .env
+```
+
 -   Siapkan database dan atur file .env sesuai dengan konfigurasi Anda
+
+-   copy file .env
+
+```
+cp .env.example .env
+```
+
+-   Generate Application Key
+
+```
+php artisan key:generate
+```
+
 -   Jika sudah, migrate seluruh migrasi dan seeding data
 
 ```
