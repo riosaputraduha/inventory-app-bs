@@ -24,19 +24,19 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 ### Preview Gambar
 
 _Tampilan Login_
-![Image 1](https://i.imgur.com/RsiRp1O.png)
+![Image 1](https://imgur.com/a/VQE25qt)
 
 _Dashboard_
-![Image 2](https://i.imgur.com/Rf1yOGY.png)
+![Image 2](https://imgur.com/a/MAjVwfn)
 
 _Daftar Barang_
-![Image 3](https://i.imgur.com/FZa1VKv.png)
+![Image 3](https://imgur.com/a/mDMn66n)
 
 _Daftar Bantuan Operasional Sekolah_
-![Image 4](https://i.imgur.com/kPG2KK2.png)
+![Image 4](https://imgur.com/a/rPIoTdi)
 
 _Daftar Ruangan_
-![Image 5](https://i.imgur.com/xGncl4B.png)
+![Image 5](https://imgur.com/a/FPtuNZ2)
 
 ### Langkah-langkah instalasi
 
@@ -61,14 +61,7 @@ cd inventory-app-bs-main
 ```
 composer install
 ```
-
--   copy file .env
-
-```
-cp .env.example .env
-```
-
--   Siapkan database dan atur file .env sesuai dengan konfigurasi Anda
+-  Siapkan database dan atur file .env sesuai dengan konfigurasi Anda
 
 -   copy file .env
 
