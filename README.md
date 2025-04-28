@@ -7,9 +7,9 @@ Aplikasi inventaris barang sekolah menggunakan Framework Laravel 9.
 Berikut beberapa hal yang perlu diinstal terlebih dahulu:
 
 -   Composer (https://getcomposer.org/)
--   PHP ^8.0.2
--   MySQL
--   XAMPP
+-   PHP 8.3.20 (https://www.php.net/)
+-   MySQL 8.0.30 
+-   XAMPP (https://www.apachefriends.org/)
 
 Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didalam aplikasi XAMPP
 
@@ -36,16 +36,11 @@ _Daftar Bantuan Operasional Sekolah_
 ![Image 4](https://i.imgur.com/izETV5A.png)
 
 _Daftar Ruangan_
-![Image 5](https://i.imgur.com/kCyoVDe.png)
-<<<<<<< HEAD
-s://imgur.com/a/FPtuNZ2)
-ne repository ini
-=======
+![Image 5](https://i.imgur.com/hybxr0v.png)
 
 ### Langkah-langkah instalasi
 
 -   Clone repository ini
->>>>>>> bebf1ac (update README)
 
 ```
 https://github.com/riosaputraduha/inventory-app-bs.git
