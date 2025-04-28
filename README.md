@@ -24,23 +24,21 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 ### Preview Gambar
 
 _Tampilan Login_
-![Image 1](https://imgur.com/a/QhVkQrc)
+![Image 1](https://i.imgur.com/zvhtc5h.png)
 
 _Dashboard_
-![Image 2](https://imgur.com/a/MAjVwfn)
+![Image 2](https://i.imgur.com/MzoLHam.png)
 
 _Daftar Barang_
-![Image 3](https://imgur.com/a/XRlSe1a)
+![Image 3](https://i.imgur.com/hss2WPe.png)
 
 _Daftar Bantuan Operasional Sekolah_
-![Image 4](https://imgur.com/a/rPIoTdi)
+![Image 4](https://i.imgur.com/izETV5A.png)
 
 _Daftar Ruangan_
-![Image 5](https://imgur.com/a/FPtuNZ2)
-
-### Langkah-langkah instalasi
-
--   Clone repository ini
+![Image 5](https://i.imgur.com/kCyoVDe.png)
+s://imgur.com/a/FPtuNZ2)
+ne repository ini
 
 ```
 https://github.com/riosaputraduha/inventory-app-bs.git
