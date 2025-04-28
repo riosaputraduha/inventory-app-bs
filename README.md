@@ -37,8 +37,15 @@ _Daftar Bantuan Operasional Sekolah_
 
 _Daftar Ruangan_
 ![Image 5](https://i.imgur.com/kCyoVDe.png)
+<<<<<<< HEAD
 s://imgur.com/a/FPtuNZ2)
 ne repository ini
+=======
+
+### Langkah-langkah instalasi
+
+-   Clone repository ini
+>>>>>>> bebf1ac (update README)
 
 ```
 https://github.com/riosaputraduha/inventory-app-bs.git
