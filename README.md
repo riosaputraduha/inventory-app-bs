@@ -30,7 +30,7 @@ _Dashboard_
 ![Image 2](https://imgur.com/a/MAjVwfn)
 
 _Daftar Barang_
-![Image 3](https://imgur.com/a/mDMn66n)
+![Image 3](https://imgur.com/a/XRlSe1a)
 
 _Daftar Bantuan Operasional Sekolah_
 ![Image 4](https://imgur.com/a/rPIoTdi)
