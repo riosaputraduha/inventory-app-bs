@@ -24,7 +24,7 @@ Jika Anda menggunakan XAMPP, untuk PHP dan MySQL sudah menjadi 1 (bundle) didala
 ### Preview Gambar
 
 _Tampilan Login_
-![Image 1](https://imgur.com/a/HxYHDqC)
+![Image 1](https://imgur.com/a/QhVkQrc)
 
 _Dashboard_
 ![Image 2](https://imgur.com/a/MAjVwfn)
